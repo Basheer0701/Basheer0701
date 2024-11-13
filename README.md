@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-basheer-shaik-%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%83%AB-%E3%83%90%E3%82%B7%E3%83%BC%E3%83%AB-984377247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul basheer shaik" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/sa_basheer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sa__basheer" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/abdulbasheer_shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulbasheer_shaik" height="30" width="40" /></a>
 </p>
 
