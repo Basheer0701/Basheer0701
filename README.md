@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning  related projects**
 
-- 💼 I’m ready to work as a **Data Analyst**
+- 🛠️ I’m flexible and open to contributing as a Software Engineer, leveraging my technical expertise in building scalable, user-friendly solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
