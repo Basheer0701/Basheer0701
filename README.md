@@ -62,4 +62,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/abdulbasheer_shaik?theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basheer0701&layout=compact)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/abdulbasheer_shaik?theme=light)
