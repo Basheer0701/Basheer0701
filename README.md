@@ -64,4 +64,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basheer0701&layout=compact)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/abdulbasheer_shaik?theme=light)
